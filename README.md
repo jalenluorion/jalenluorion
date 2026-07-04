@@ -17,7 +17,7 @@ I work on AI research, robotics, and whatever random fun things I discover!
 
 **Some things I've done**
 - 🥇 HackIllinois 2026 — 1st place
-- 📄 Published in ACS journals
+- 📄 Published in ArXiv & ACS journals
 - 🏆 USACO Gold · AIME qualifier (5×)
 - 🍎 Swift Student Challenge — 2× winner
 - 🐶 [Pixel Factions and Blue Dogs](https://blueypedia.fandom.com/wiki/Bluey_on_r/place)
